@@ -1,8 +1,8 @@
 {
-  "name": "turndown",
+  "name": "html-md-parser",
   "description": "A library that converts HTML to Markdown",
-  "version": "7.1.1",
-  "author": "Dom Christie",
+  "version": "0.0.1",
+  "author": "Bryan Guner",
   "main": "lib/turndown.cjs.js",
   "module": "lib/turndown.es.js",
   "jsnext:main": "lib/turndown.es.js",
